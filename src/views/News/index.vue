@@ -65,7 +65,6 @@ export default {
       dialogTableVisible: false,
       temp:'',
       xzczx: '',
-      asda:'zc'
     };
   },
   created() {
