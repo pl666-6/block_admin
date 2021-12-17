@@ -63,7 +63,8 @@ export default {
       },
       title: "",
       dialogTableVisible: false,
-      temp:''
+      temp:'',
+      xzczx: '',
     };
   },
   created() {
