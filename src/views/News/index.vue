@@ -63,6 +63,7 @@ export default {
       },
       title: "",
       dialogTableVisible: false,
+      temp:''
     };
   },
   created() {
